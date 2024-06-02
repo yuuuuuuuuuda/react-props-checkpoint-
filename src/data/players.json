@@ -1,0 +1,57 @@
+{
+    "players": [
+        {
+        "firstName": "cristiano",
+        "lastName": "Ronaldo",
+        "age": 39,
+        "team": "real madrid",
+        "nationality": "portugal",
+        "image": "https://images.pexels.com/photos/16651578/pexels-photo-16651578/free-photo-of-homme-sport-mouvement-stade.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "hobbies": [
+            "watching movies ", "reading"
+
+        ]
+        },
+        
+        
+  
+        {
+        "firstName": "ghaylen",
+        "lastName": "challeli",
+        "age": 31,
+        "team": "EST",
+        "nationality": "tunis",
+        "image": "https://images.pexels.com/photos/16651578/pexels-photo-16651578/free-photo-of-homme-sport-mouvement-stade.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "hobbies": [
+            "watching movies ", "reading"
+
+        ]
+        },
+     
+        {
+        "firstName": "houssem",
+        "lastName": "tkaa",
+        "age": 27,
+        "team": "EST",
+        "nationality": "tunis",
+        "image": "https://images.pexels.com/photos/16651578/pexels-photo-16651578/free-photo-of-homme-sport-mouvement-stade.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "hobbies": [
+            "watching movies ", "reading"
+
+        ]
+        },
+     
+        {
+        "firstName": "amen",
+        "lastName": "memmich",
+        "age": 20,
+        "team": "EST",
+        "nationality": "tunis",
+        "image": "https://images.pexels.com/photos/16651578/pexels-photo-16651578/free-photo-of-homme-sport-mouvement-stade.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "hobbies": [
+            "watching movies ", "reading"
+
+        ]
+        }
+    ]
+}
